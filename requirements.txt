@@ -1,0 +1,5 @@
+# Lung CT Transfer Learning — dependencies
+
+numpy
+tensorflow>=2.10        # tensorflow.keras: VGG16, ImageDataGenerator, Sequential, callbacks
+pillow                  # 이미지 로딩(load_img/img_to_array)에 필요
